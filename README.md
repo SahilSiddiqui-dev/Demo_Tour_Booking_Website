@@ -15,7 +15,7 @@ The platform showcases tour packages, testimonials, and an easy booking experien
 
 ## 🌍 Live Preview
 
-🚀 **Website:** _Coming Soon_  
+🚀 **Website:** _[Coming Soon](https://sahilsiddiqui-dev.github.io/demo-touring-page/)_  
 📍 **Region:** Sundarbans, India & Bangladesh  
 
 ---
