@@ -31,20 +31,8 @@ The platform showcases tour packages, testimonials, and an easy booking experien
 
 ---
 
-## 🖼️ Visual Highlights
-
-| Hero Section | Tour Packages | Booking CTA |
-|-------------|---------------|-------------|
-| Immersive forest imagery | Organized tour cards | Clear “Book Now” buttons |
-
-> 📸 **Tip:** Add screenshots to `/assets` and update the image paths for an even richer README.
-
----
-
 ## 🛠️ Tech Stack
 
 - **HTML5**
 - **CSS**
-  
-## 📂 Project Structure
 
